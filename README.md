@@ -1,2 +1,3 @@
 # demo
-author-mistea
+first git reposatory
+author-mistea 
